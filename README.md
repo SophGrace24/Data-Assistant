@@ -68,4 +68,5 @@ THE 'sentimentalai.py' FOLDER NEAR THE BOTTOM OF THIS REPISTORY BRANCH. THIS FIL
   Not to sound rude but it encodes words! I don't think I implemented number-conversions yet but it's in the plans! 
   This file is also able to run on it's own. 
   
- T
+ *Thanks!*
+ 
